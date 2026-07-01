@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Karur,_Tamil_Nadu-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=BharathMalayalam&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -32,7 +32,6 @@ duration: 2024 - 2028
 cgpa: 8.4
 location: Karur, Tamil Nadu, India
 currently_exploring: [DevOps, AWS, AI Automation]
-fun_fact: "I turn coffee ☕ into scalable cloud apps ☁️"
 ```
 
 - 🎓 Pursuing **B.Tech in Information Technology** — CGPA **8.4**
@@ -40,42 +39,36 @@ fun_fact: "I turn coffee ☕ into scalable cloud apps ☁️"
 - 💻 Full-stack development with the **MERN Stack**
 - 🌱 Cloud Intern @ **Cybernaut EdTech** — built *Axis*, a Jira-style project management tool
 - 🏆 **2nd Place** — GUSTO Project Presentation (Agri-Product Website)
-- 📫 **bharathmalayalam25@gmail.com**
+- 📫 Reach me at **bharathmalayalam25@gmail.com**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
 
 ## 🛠️ Tech Arsenal
-
+ 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,ts&theme=dark" />
-
-<br/><br/>
-
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css&theme=dark" />
-
-<br/><br/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux&theme=dark" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
+<table>
+<tr>
+<th>💬 Languages</th>
+<th>🌐 Web Development</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,ts&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css&theme=dark" /></td>
+</tr>
+<tr>
+<th>☁️ Cloud & DevOps</th>
+  
+<th>🧰 Tools</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /></td>
+</tr>
+</table>
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
@@ -84,25 +77,25 @@ fun_fact: "I turn coffee ☕ into scalable cloud apps ☁️"
 <tr>
 <td width="50%">
 
-### 🗂️ [Axis — Jira Clone](https://github.com/)
+### 🗂️ [Axis — Jira Clone]
 Scalable Jira-inspired project management system with real-time task tracking, issue management, and role-based workflows.
 
-`AWS` `EC2` `S3` `IAM`
+`AWS` `EC2` `S3` `IAM` `Docker` `Github Action`
 
 </td>
-<td width="50%">
+<td width="50%" rowspan="2">
 
-### 🧠 [CodeDaily](https://github.com/)
-A problem-solving platform built to sharpen students' logical thinking and coding skills, one challenge at a time.
+### 🧠 [CodeDaily](https://codedaily-kappa.vercel.app/)
+CodeDaily is a Python-based problem-solving platform designed to help students learn Python and improve their problem-solving skills. Starting from scratch, the platform already has 30+ active users and is running successfully behind my college ecosystem.
 
-`TypeScript`
+`TypeScript` `Node.js` `MongoDB` `React.js` `Express.js` 
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
-### 🌾 [Agri-Product Website](https://github.com/) — 🏆 2nd Place, GUSTO
+### 🌾 [Agri-Product Website] — 🏆 2nd Place, GUSTO
 Full-stack platform directly connecting farmers with customers for the online sale of organic produce.
 
 `MongoDB` `Express` `React` `Node.js`
@@ -111,27 +104,6 @@ Full-stack platform directly connecting farmers with customers for the online sa
 </tr>
 </table>
 
-> 💡 Swap the placeholder `https://github.com/` links above with your real repo URLs.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A11CB&icon_color=2E9EF7" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6A11CB&fire=2E9EF7" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A11CB" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=6A11CB&point=ffffff" width="49%"/>
-
-</div>
-
-> ⚠️ Replace every `YOUR-GITHUB-USERNAME` in this file with your actual GitHub handle so these cards render correctly.
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
 
@@ -139,11 +111,11 @@ Full-stack platform directly connecting farmers with customers for the online sa
 
 <div align="center">
 
-| 🎖️ Certification | Issued By |
-|---|---|
-| Full Stack Developer (MERN Stack) | Udemy |
-| Agentic AI (Agents Think, APIs Act) | MIT, Chennai |
-| GUSTO — 2nd Place (Agri-Product Website) | Project Presentation |
+| 🎖️ Certification | Issued By | Learn |
+|---|---|--|
+| Full Stack Developer (MERN Stack) | Udemy | MongoDB, React, Node.js, Express.js
+| Agentic AI (Agents Think, APIs Act) | MIT, Chennai | Agentic AI Tools, RAG , Landgraph
+| GUSTO — 2nd Place (Agri-Product Website) | GCE,Erode | MERN Stack
 
 </div>
 
