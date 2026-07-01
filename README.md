@@ -87,19 +87,6 @@
 - ✅ Agentic AI (Agents Think, APIs Act) — MIT, Chennai
 - ✅ GUSTO Project Presentation — 2nd Place (Agri-Product Website)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathMalayalam&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
 
 ---
 
