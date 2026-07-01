@@ -1,103 +1,172 @@
-<h1 align="center">Hi 👋, I'm Bharath Malayalam</h1>
-<h3 align="center">DevOps & Full-Stack Developer | AWS | MERN Stack | Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Cloud+Computing+%7C+AWS;MERN+Stack+Developer;DevOps+%26+AI+Automation+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Bharath%20Malayalam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharath-malayalam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharathmalayalam25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/F0fCjsIq3u/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Cloud+Computing+%E2%98%81%EF%B8%8F+AWS;MERN+Stack+Developer+%F0%9F%92%BB;DevOps+%26+CI%2FCD+Enthusiast+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://www.linkedin.com/in/bharath-malayalam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bharathmalayalam25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Karur,_Tamil_Nadu-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 
-- 🎓 B.Tech in **Information Technology**, Government College of Engineering, Erode (2024 – 2028) | CGPA: **8.4**
-- ☁️ Hands-on experience with **AWS (EC2, S3, IAM)** and cloud-based application development
-- 💻 Skilled in the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🔧 Currently exploring **DevOps**, **CI/CD pipelines**, and **AI Automation**
-- 🌱 Worked as a **Cloud Intern** at Cybernaut EdTech, building a Jira-clone app called **Axis**
-- 🏆 Won **2nd place** at GUSTO project presentation for the Agri-Product Website
-- 📫 Reach me at **bharathmalayalam25@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" alt="Profile views"/>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
+
+## 🧑‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/gif3.gif"/>
+
+```yaml
+name: Bharath Malayalam
+role: IT Student · Cloud & Full-Stack Developer
+degree: B.Tech Information Technology
+college: Government College of Engineering, Erode
+duration: 2024 - 2028
+cgpa: 8.4
+location: Karur, Tamil Nadu, India
+currently_exploring: [DevOps, AWS, AI Automation]
+fun_fact: "I turn coffee ☕ into scalable cloud apps ☁️"
+```
+
+- 🎓 Pursuing **B.Tech in Information Technology** — CGPA **8.4**
+- ☁️ Hands-on with **AWS (EC2, S3, IAM)** for scalable cloud applications
+- 💻 Full-stack development with the **MERN Stack**
+- 🌱 Cloud Intern @ **Cybernaut EdTech** — built *Axis*, a Jira-style project management tool
+- 🏆 **2nd Place** — GUSTO Project Presentation (Agri-Product Website)
+- 📫 **bharathmalayalam25@gmail.com**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,ts&theme=dark" />
+
+<br/><br/>
 
 **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css&theme=dark" />
+
+<br/><br/>
 
 **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux&theme=dark" />
 
-**Tools & Concepts**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-4B8BBE?style=flat-square" />
-</p>
+<br/><br/>
 
----
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-### 🌟 Featured Projects
+</div>
 
-| Project | Description | Tech Used |
-|---|---|---|
-| **[Axis (Jira Clone)](https://github.com/BharathMalayalam/AXIS/)** | Scalable Jira-inspired project management tool with real-time task tracking, issue management, and role-based workflows | AWS (EC2, S3, IAM) |
-| **[CodeDaily](https://github.com/BharathMalayalam/Coding-platform/)** | A problem-solving platform designed to sharpen students' logical thinking and coding skills | TypeScript |
-| **[Agri-Product Website](https://github.com/BharathMalayalam/Agri-Product/)** | Full-stack platform connecting farmers directly with customers for online sale of organic produce — 🏆 2nd place at GUSTO | MERN Stack |
+<br/>
 
-> 💡 Update the links above with your actual repository URLs once you pin them.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
 
----
+## 🚀 Featured Projects
 
-### 🏅 Certifications
+<table>
+<tr>
+<td width="50%">
 
-- ✅ Udemy Certified Full Stack Developer (MERN Stack)
-- ✅ Agentic AI (Agents Think, APIs Act) — MIT, Chennai
-- ✅ GUSTO Project Presentation — 2nd Place (Agri-Product Website)
+### 🗂️ [Axis — Jira Clone](https://github.com/)
+Scalable Jira-inspired project management system with real-time task tracking, issue management, and role-based workflows.
 
+`AWS` `EC2` `S3` `IAM`
 
----
+</td>
+<td width="50%">
 
-### 🎯 Areas of Interest
+### 🧠 [CodeDaily](https://github.com/)
+A problem-solving platform built to sharpen students' logical thinking and coding skills, one challenge at a time.
 
-`DevOps Engineering` • `Full Stack Development` • `Cloud Computing`  • `AI Automation` • `Software Development` • `Problem Solving`
+`TypeScript`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=blue" alt="Profile views" />
-</p>
+### 🌾 [Agri-Product Website](https://github.com/) — 🏆 2nd Place, GUSTO
+Full-stack platform directly connecting farmers with customers for the online sale of organic produce.
 
-<p align="center"><i>📍 Karur, Tamil Nadu, India</i></p>
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+</tr>
+</table>
+
+> 💡 Swap the placeholder `https://github.com/` links above with your real repo URLs.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A11CB&icon_color=2E9EF7" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D1117&ring=6A11CB&fire=2E9EF7" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A11CB" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=6A11CB&point=ffffff" width="49%"/>
+
+</div>
+
+> ⚠️ Replace every `YOUR-GITHUB-USERNAME` in this file with your actual GitHub handle so these cards render correctly.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+| 🎖️ Certification | Issued By |
+|---|---|
+| Full Stack Developer (MERN Stack) | Udemy |
+| Agentic AI (Agents Think, APIs Act) | MIT, Chennai |
+| GUSTO — 2nd Place (Agri-Product Website) | Project Presentation |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:6A11CB&height=3&width=100%" width="100%"/>
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-2E9EF7?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/-Full_Stack_Dev-6A11CB?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps_Engineering-2E9EF7?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/-AI_Automation-6A11CB?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-2E9EF7?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<i>Thanks for stopping by — let's build something great together! 🚀</i>
+</div>
